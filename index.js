@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var events = require('events');
+var events = require('component-events');
 
 /**
  * Export `Grow`

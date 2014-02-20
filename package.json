@@ -1,0 +1,13 @@
+{
+  "name": "yields-grow-width",
+  "description": "Grow the width of the given input.",
+  "version": "0.2.3",
+  "keywords": [
+    "grow"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-events": "git://github.com/npmcomponent/component-events.git"
+  },
+  "license": "MIT"
+}
